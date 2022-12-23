@@ -15,7 +15,7 @@
 ## 🔬 &nbsp;GitHub Analytics
 
 <div >
-<img width="685em" src="https://github-readme-stats.vercel.app/api?username=loolirer&show_icons=true&theme=gotham" alt="loolirer's stats"/>
+<img width="600em" src="https://github-readme-stats.vercel.app/api?username=loolirer&show_icons=true&theme=gotham" alt="loolirer's stats"/>
 </div>
 
 ---
