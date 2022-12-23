@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 I'm Lorenzo Carrera de Oliveira!
 
-<!--
-**loolirer/loolirer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚙️ I’m currently working in the MoCap Rasp Optical Tracking Arena by the eRobotica lab 🦾
+- 👀 I’m interested in robotics and automation processes involving computer vision 📷
+- 📝 I'm currently learning about computer vision and rigid body tracking algorithms 🔎
 
-Here are some ideas to get you started:
+## 🛠 &nbsp;Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 &nbsp;GitHub Analytics
+
+<div >
+<img width="685em" src="https://github-readme-stats.vercel.app/api?username=loolirer&show_icons=true&theme=gotham" alt="loolirer's stats"/>
+</div>
+
+---
