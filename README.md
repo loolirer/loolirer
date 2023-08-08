@@ -1,6 +1,6 @@
 # 👋 I'm Lorenzo Carrera de Oliveira!
 
-- 🛠 I’m currently working at the MoCap Rasp Optical Tracking Arena by the eRobotica lab 🦾
+- 🛠 I’m currently working at the [MoCap Rasp - Optical Tracking Arena](https://github.com/debOliveira/MoCapRasp) by the eRobotica lab 🦾
 - 👀 I’m interested in robotics and automation processes involving computer vision 📷
 - 📝 I'm currently learning about computer vision and rigid body tracking algorithms 🔎
 
