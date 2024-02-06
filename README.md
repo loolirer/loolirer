@@ -2,7 +2,7 @@
 
 - 🛠 I’m currently working at the [MoCap Rasp - Optical Tracking Arena](https://github.com/debOliveira/MoCapRasp) by the eRobotica lab 🦾
 - 👀 I’m interested in robotics and automation processes involving computer vision 📷
-- 📝 I'm currently learning about computer vision and rigid body tracking algorithms 🔎
+- 📝 I'm currently learning about computer vision and digital twins 🔎
 
 ## 💾 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
