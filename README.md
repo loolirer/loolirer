@@ -1,14 +1,14 @@
 # 👋 I'm Lorenzo Carrera de Oliveira!
 
-- 🛠 I’m currently working at the [MoCap Rasp - Optical Tracking Arena](https://github.com/debOliveira/MoCapRasp) by the eRobotica lab 🦾
-- 👀 I’m interested in robotics and automation processes involving computer vision 📷
-- 📝 I'm currently learning about computer vision and digital twins 🔎
+Driven by a passion for autonomous systems, I specialize in the intersection of robotic perception, digital twins, and AI-driven automation. My technical foundation in Electrical Engineering is complemented by extensive R&D experience developing scalable software for complex robotic environments.
+
+- 🛠 I’m currently working as a Robotics Software Developer at [ElysiumX](https://www.elysiumx.tech/) 🦾
+- 📝 I'm finishing my Electrical Engineering bachelor's degree specializing in Robotics and Automation
 
 ## 💾 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
